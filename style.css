@@ -1,12 +1,13 @@
 
 
-@import url('https://fonts.googleapis.com/css2?family=Edu+AU+VIC+WA+NT+Guides:wght@400..700&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400..700&display=swap');
 :root {
     --cor-principal:#80caed;
     --cor-secundaria:#51647a;
     --cor-texto:#4583ca;
     --cor-de-fundo:#453c5c;
-    --fonte: "Edu Australia VIC WA NT Hand Guides" ,sans-serif;
+    --fonte: "Dancing Script" ,sans-serif;
 }
 
 body{
