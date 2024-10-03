@@ -2,9 +2,9 @@
 
 @import url('https://fonts.googleapis.com/css2?family=Edu+AU+VIC+WA+NT+Guides:wght@400..700&display=swap');
 :root {
-    --cor-principal:#beed80;
+    --cor-principal:#80caed;
     --cor-secundaria:#51647a;
-    --cor-texto:#59d999;
+    --cor-texto:#6259d9;
     --cor-de-fundo:#453c5c;
     --fonte: "Edu Australia " ,sans-serif;
 }
