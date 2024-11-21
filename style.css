@@ -41,9 +41,9 @@ h1{
 @import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400..700&display=swap');
 
 :root {
-    --cor-principal:#beed80;
+    --cor-principal:#80afed;
     --cor-secundaria:#51647a;
-    --cor-texto:#59d999;
+    --cor-texto:#5970d9;
     --cor-de-fundo:#453c5c;
     --fonte: "Dancing Script" ,sans-serif;
 }
@@ -87,9 +87,9 @@ nav a{
 @import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400..700&display=swap');
 
 :root {
-    --cor-principal:#beed80;
+    --cor-principal:#80afed;
     --cor-secundaria:#51647a;
-    --cor-texto:#59d999;
+    --cor-texto:#5970d9;
     --cor-de-fundo:#453c5c;
     --fonte: "Dancing Script" ,sans-serif;
 }
@@ -126,9 +126,9 @@ h1{
 @import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400..700&display=swap');
 
 :root {
-    --cor-principal:#beed80;
+    --cor-principal:#80afed;
     --cor-secundaria:#51647a;
-    --cor-texto:#59d999;
+    --cor-texto:#5970d9;
     --cor-de-fundo:#453c5c;
     --fonte: "Dancing Script" ,sans-serif;
 }
